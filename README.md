@@ -1,5 +1,8 @@
-
-<h1 align="center">🌸 Hey, I'm Vineetha Satya</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
+  <img alt="Vineetha Satya - Cybersecurity" src="header-light.png" width="100%">
+</picture>
+<h1 align="center"> Hey, I'm Vineetha Satya</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Python+Learner;Linux+Enthusiast;Networking+Enthusiast" alt="My introduction" />
